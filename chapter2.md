@@ -8,10 +8,10 @@ description : Introduction to Python
 Have a look at the plot that showed up in the viewer to the right. Which type of movies have the worst rating assigned to them?
 
 *** =instructions
-- Long guy, clearly
-- Short guy, clearly
-- Long guy, but the correlation seems weak
-- Short guy, but the correlation seems weak
+- Long movies, clearly
+- Short movies, clearly
+- Long movies, but the correlation seems weak
+- Short movies, but the correlation seems weak
 
 *** =hint
 Have a look at the plot. Do you see a trend in the dots?
