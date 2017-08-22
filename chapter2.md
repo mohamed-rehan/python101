@@ -8,10 +8,10 @@ description : Introduction to Python
 Have a look at the plot that showed up in the viewer to the right. Which type of movies have the worst rating assigned to them?
 
 *** =instructions
-- Long movies, clearly
-- Short movies, clearly
-- Long movies, but the correlation seems weak
-- Short movies, but the correlation seems weak
+- Long guy, clearly
+- Short guy, clearly
+- Long guy, but the correlation seems weak
+- Short guy, but the correlation seems weak
 
 *** =hint
 Have a look at the plot. Do you see a trend in the dots?
@@ -34,8 +34,8 @@ plt.show()
 ```{python}
 # SCT written with pythonwhat: https://github.com/datacamp/pythonwhat/wiki
 
-msg_bad = "That is not correct!"
-msg_success = "Exactly! The correlation is very weak though."
+msg_bad = "That is not very correct!"
+msg_success = Good! The correlation is very weak though."
 test_mc(4, [msg_bad, msg_bad, msg_bad, msg_success])
 ```
 
