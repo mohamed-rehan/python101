@@ -24,7 +24,7 @@ Have a look at the plot. Do you see a trend in the dots?
 import pandas as pd
 import matplotlib.pyplot as plt
 
-movies = pd.read_csv("http://s3.amazonaws.com/assets.datacamp.com/course/introduction_to_r/movies.csv")
+movies = pd.read_csv("https://github.com/mohamed-rehan/python101/movies.csv")
 
 plt.scatter(movies.runtime, movies.rating)
 plt.show()
